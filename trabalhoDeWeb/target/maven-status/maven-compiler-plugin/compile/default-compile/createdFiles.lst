@@ -1,0 +1,10 @@
+com\trabalho1\trabalhoDeWeb\service\PessoaService.class
+com\trabalho1\trabalhoDeWeb\pessoasApp\DataConfiguration.class
+com\trabalho1\trabalhoDeWeb\repository\PessoaRepository.class
+com\trabalho1\trabalhoDeWeb\models\Situacao.class
+com\trabalho1\trabalhoDeWeb\controllers\IndexController.class
+com\trabalho1\trabalhoDeWeb\resources\PessoaResources.class
+com\trabalho1\trabalhoDeWeb\TrabalhoDeWebApplication.class
+com\trabalho1\trabalhoDeWeb\Pessoa.class
+com\trabalho1\trabalhoDeWeb\controllers\PessoaController.class
+com\trabalho1\trabalhoDeWeb\models\Tipo.class
